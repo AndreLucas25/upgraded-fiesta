@@ -1,2 +1,4 @@
 Um teste para aprendizado do uso do terminal git
 Cada linha se refere a um teste
+comitando e alterando
+adicionando novas linhas kkk
